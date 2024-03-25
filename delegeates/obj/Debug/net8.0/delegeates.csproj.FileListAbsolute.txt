@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/delegeates/bin/Debug/net8.0/delegeates
+/home/faheem/PRACTICE/delegeates/bin/Debug/net8.0/delegeates.deps.json
+/home/faheem/PRACTICE/delegeates/bin/Debug/net8.0/delegeates.runtimeconfig.json
+/home/faheem/PRACTICE/delegeates/bin/Debug/net8.0/delegeates.dll
+/home/faheem/PRACTICE/delegeates/bin/Debug/net8.0/delegeates.pdb
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.AssemblyInfo.cs
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.dll
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/refint/delegeates.dll
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.pdb
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/delegeates.genruntimeconfig.cache
+/home/faheem/PRACTICE/delegeates/obj/Debug/net8.0/ref/delegeates.dll

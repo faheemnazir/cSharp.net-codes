@@ -1,0 +1,14 @@
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/bin/Debug/net8.0/customClassList
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/bin/Debug/net8.0/customClassList.deps.json
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/bin/Debug/net8.0/customClassList.runtimeconfig.json
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/bin/Debug/net8.0/customClassList.dll
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/bin/Debug/net8.0/customClassList.pdb
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.AssemblyInfoInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.AssemblyInfo.cs
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.csproj.CoreCompileInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.dll
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/refint/customClassList.dll
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.pdb
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/customClassList.genruntimeconfig.cache
+/home/faheem/Documents/BRIDGE_LABZ/customClassList/obj/Debug/net8.0/ref/customClassList.dll

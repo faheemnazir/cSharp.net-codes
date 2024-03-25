@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/LONQ/bin/Debug/net8.0/LONQ
+/home/faheem/PRACTICE/LONQ/bin/Debug/net8.0/LONQ.deps.json
+/home/faheem/PRACTICE/LONQ/bin/Debug/net8.0/LONQ.runtimeconfig.json
+/home/faheem/PRACTICE/LONQ/bin/Debug/net8.0/LONQ.dll
+/home/faheem/PRACTICE/LONQ/bin/Debug/net8.0/LONQ.pdb
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.AssemblyInfo.cs
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.dll
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/refint/LONQ.dll
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.pdb
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/LONQ.genruntimeconfig.cache
+/home/faheem/PRACTICE/LONQ/obj/Debug/net8.0/ref/LONQ.dll

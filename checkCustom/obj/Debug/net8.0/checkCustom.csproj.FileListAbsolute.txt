@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/checkCustom/bin/Debug/net8.0/checkCustom
+/home/faheem/PRACTICE/checkCustom/bin/Debug/net8.0/checkCustom.deps.json
+/home/faheem/PRACTICE/checkCustom/bin/Debug/net8.0/checkCustom.runtimeconfig.json
+/home/faheem/PRACTICE/checkCustom/bin/Debug/net8.0/checkCustom.dll
+/home/faheem/PRACTICE/checkCustom/bin/Debug/net8.0/checkCustom.pdb
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.AssemblyInfo.cs
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.dll
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/refint/checkCustom.dll
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.pdb
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/checkCustom.genruntimeconfig.cache
+/home/faheem/PRACTICE/checkCustom/obj/Debug/net8.0/ref/checkCustom.dll

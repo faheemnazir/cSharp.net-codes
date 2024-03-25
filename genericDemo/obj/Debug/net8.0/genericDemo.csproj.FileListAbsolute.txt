@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/genericDemo/bin/Debug/net8.0/genericDemo
+/home/faheem/PRACTICE/genericDemo/bin/Debug/net8.0/genericDemo.deps.json
+/home/faheem/PRACTICE/genericDemo/bin/Debug/net8.0/genericDemo.runtimeconfig.json
+/home/faheem/PRACTICE/genericDemo/bin/Debug/net8.0/genericDemo.dll
+/home/faheem/PRACTICE/genericDemo/bin/Debug/net8.0/genericDemo.pdb
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.AssemblyInfo.cs
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.dll
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/refint/genericDemo.dll
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.pdb
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/genericDemo.genruntimeconfig.cache
+/home/faheem/PRACTICE/genericDemo/obj/Debug/net8.0/ref/genericDemo.dll

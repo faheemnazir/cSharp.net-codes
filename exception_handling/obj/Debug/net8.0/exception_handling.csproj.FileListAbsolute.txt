@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/exception_handling/bin/Debug/net8.0/exception_handling
+/home/faheem/PRACTICE/exception_handling/bin/Debug/net8.0/exception_handling.deps.json
+/home/faheem/PRACTICE/exception_handling/bin/Debug/net8.0/exception_handling.runtimeconfig.json
+/home/faheem/PRACTICE/exception_handling/bin/Debug/net8.0/exception_handling.dll
+/home/faheem/PRACTICE/exception_handling/bin/Debug/net8.0/exception_handling.pdb
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.AssemblyInfo.cs
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.dll
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/refint/exception_handling.dll
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.pdb
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/exception_handling.genruntimeconfig.cache
+/home/faheem/PRACTICE/exception_handling/obj/Debug/net8.0/ref/exception_handling.dll

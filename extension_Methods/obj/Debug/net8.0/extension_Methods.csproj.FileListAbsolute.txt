@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/extension_Methods/bin/Debug/net8.0/extension_Methods
+/home/faheem/PRACTICE/extension_Methods/bin/Debug/net8.0/extension_Methods.deps.json
+/home/faheem/PRACTICE/extension_Methods/bin/Debug/net8.0/extension_Methods.runtimeconfig.json
+/home/faheem/PRACTICE/extension_Methods/bin/Debug/net8.0/extension_Methods.dll
+/home/faheem/PRACTICE/extension_Methods/bin/Debug/net8.0/extension_Methods.pdb
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.AssemblyInfo.cs
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.dll
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/refint/extension_Methods.dll
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.pdb
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/extension_Methods.genruntimeconfig.cache
+/home/faheem/PRACTICE/extension_Methods/obj/Debug/net8.0/ref/extension_Methods.dll

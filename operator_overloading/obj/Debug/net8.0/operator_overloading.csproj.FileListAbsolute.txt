@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/operator_overloading/bin/Debug/net8.0/operator_overloading
+/home/faheem/PRACTICE/operator_overloading/bin/Debug/net8.0/operator_overloading.deps.json
+/home/faheem/PRACTICE/operator_overloading/bin/Debug/net8.0/operator_overloading.runtimeconfig.json
+/home/faheem/PRACTICE/operator_overloading/bin/Debug/net8.0/operator_overloading.dll
+/home/faheem/PRACTICE/operator_overloading/bin/Debug/net8.0/operator_overloading.pdb
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.AssemblyInfo.cs
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.dll
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/refint/operator_overloading.dll
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.pdb
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/operator_overloading.genruntimeconfig.cache
+/home/faheem/PRACTICE/operator_overloading/obj/Debug/net8.0/ref/operator_overloading.dll

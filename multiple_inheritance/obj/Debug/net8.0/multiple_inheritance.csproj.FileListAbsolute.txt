@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/multiple_inheritance/bin/Debug/net8.0/multiple_inheritance
+/home/faheem/PRACTICE/multiple_inheritance/bin/Debug/net8.0/multiple_inheritance.deps.json
+/home/faheem/PRACTICE/multiple_inheritance/bin/Debug/net8.0/multiple_inheritance.runtimeconfig.json
+/home/faheem/PRACTICE/multiple_inheritance/bin/Debug/net8.0/multiple_inheritance.dll
+/home/faheem/PRACTICE/multiple_inheritance/bin/Debug/net8.0/multiple_inheritance.pdb
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.AssemblyInfo.cs
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.dll
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/refint/multiple_inheritance.dll
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.pdb
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/multiple_inheritance.genruntimeconfig.cache
+/home/faheem/PRACTICE/multiple_inheritance/obj/Debug/net8.0/ref/multiple_inheritance.dll

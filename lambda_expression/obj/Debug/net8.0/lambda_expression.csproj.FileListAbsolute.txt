@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/lambda_expression/bin/Debug/net8.0/lambda_expression
+/home/faheem/PRACTICE/lambda_expression/bin/Debug/net8.0/lambda_expression.deps.json
+/home/faheem/PRACTICE/lambda_expression/bin/Debug/net8.0/lambda_expression.runtimeconfig.json
+/home/faheem/PRACTICE/lambda_expression/bin/Debug/net8.0/lambda_expression.dll
+/home/faheem/PRACTICE/lambda_expression/bin/Debug/net8.0/lambda_expression.pdb
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.AssemblyInfo.cs
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.dll
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/refint/lambda_expression.dll
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.pdb
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/lambda_expression.genruntimeconfig.cache
+/home/faheem/PRACTICE/lambda_expression/obj/Debug/net8.0/ref/lambda_expression.dll

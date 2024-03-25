@@ -1,0 +1,14 @@
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/bin/Debug/net8.0/gettersAnd Setters
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/bin/Debug/net8.0/gettersAnd Setters.deps.json
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/bin/Debug/net8.0/gettersAnd Setters.runtimeconfig.json
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/bin/Debug/net8.0/gettersAnd Setters.dll
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/bin/Debug/net8.0/gettersAnd Setters.pdb
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.AssemblyInfoInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.AssemblyInfo.cs
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.csproj.CoreCompileInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.dll
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/refint/gettersAnd Setters.dll
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.pdb
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/gettersAnd Setters.genruntimeconfig.cache
+/home/faheem/Documents/BRIDGE_LABZ/gettersAnd Setters/obj/Debug/net8.0/ref/gettersAnd Setters.dll

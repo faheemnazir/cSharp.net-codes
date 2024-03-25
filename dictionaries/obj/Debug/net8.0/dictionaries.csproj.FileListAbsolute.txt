@@ -1,0 +1,14 @@
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/bin/Debug/net8.0/dictionaries
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/bin/Debug/net8.0/dictionaries.deps.json
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/bin/Debug/net8.0/dictionaries.runtimeconfig.json
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/bin/Debug/net8.0/dictionaries.dll
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/bin/Debug/net8.0/dictionaries.pdb
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.AssemblyInfoInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.AssemblyInfo.cs
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.csproj.CoreCompileInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.dll
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/refint/dictionaries.dll
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.pdb
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/dictionaries.genruntimeconfig.cache
+/home/faheem/Documents/BRIDGE_LABZ/dictionaries/obj/Debug/net8.0/ref/dictionaries.dll

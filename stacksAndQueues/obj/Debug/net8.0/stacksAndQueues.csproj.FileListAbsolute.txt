@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.AssemblyInfo.cs
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/stacksAndQueues/bin/Debug/net8.0/stacksAndQueues
+/home/faheem/PRACTICE/stacksAndQueues/bin/Debug/net8.0/stacksAndQueues.deps.json
+/home/faheem/PRACTICE/stacksAndQueues/bin/Debug/net8.0/stacksAndQueues.runtimeconfig.json
+/home/faheem/PRACTICE/stacksAndQueues/bin/Debug/net8.0/stacksAndQueues.dll
+/home/faheem/PRACTICE/stacksAndQueues/bin/Debug/net8.0/stacksAndQueues.pdb
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.dll
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/refint/stacksAndQueues.dll
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.pdb
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/stacksAndQueues.genruntimeconfig.cache
+/home/faheem/PRACTICE/stacksAndQueues/obj/Debug/net8.0/ref/stacksAndQueues.dll

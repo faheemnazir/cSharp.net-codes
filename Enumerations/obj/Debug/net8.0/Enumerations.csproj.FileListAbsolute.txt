@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/Enumerations/bin/Debug/net8.0/Enumerations
+/home/faheem/PRACTICE/Enumerations/bin/Debug/net8.0/Enumerations.deps.json
+/home/faheem/PRACTICE/Enumerations/bin/Debug/net8.0/Enumerations.runtimeconfig.json
+/home/faheem/PRACTICE/Enumerations/bin/Debug/net8.0/Enumerations.dll
+/home/faheem/PRACTICE/Enumerations/bin/Debug/net8.0/Enumerations.pdb
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.AssemblyInfo.cs
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.dll
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/refint/Enumerations.dll
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.pdb
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/Enumerations.genruntimeconfig.cache
+/home/faheem/PRACTICE/Enumerations/obj/Debug/net8.0/ref/Enumerations.dll

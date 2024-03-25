@@ -1,0 +1,14 @@
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.AssemblyInfoInputs.cache
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.AssemblyInfo.cs
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.csproj.CoreCompileInputs.cache
+/home/faheem/PRACTICE/RegularExpressions/bin/Debug/net8.0/RegularExpressions
+/home/faheem/PRACTICE/RegularExpressions/bin/Debug/net8.0/RegularExpressions.deps.json
+/home/faheem/PRACTICE/RegularExpressions/bin/Debug/net8.0/RegularExpressions.runtimeconfig.json
+/home/faheem/PRACTICE/RegularExpressions/bin/Debug/net8.0/RegularExpressions.dll
+/home/faheem/PRACTICE/RegularExpressions/bin/Debug/net8.0/RegularExpressions.pdb
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.dll
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/refint/RegularExpressions.dll
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.pdb
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/RegularExpressions.genruntimeconfig.cache
+/home/faheem/PRACTICE/RegularExpressions/obj/Debug/net8.0/ref/RegularExpressions.dll

@@ -1,0 +1,14 @@
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/bin/Debug/net8.0/compareTwoArrays
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/bin/Debug/net8.0/compareTwoArrays.deps.json
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/bin/Debug/net8.0/compareTwoArrays.runtimeconfig.json
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/bin/Debug/net8.0/compareTwoArrays.dll
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/bin/Debug/net8.0/compareTwoArrays.pdb
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.AssemblyInfoInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.AssemblyInfo.cs
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.csproj.CoreCompileInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.dll
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/refint/compareTwoArrays.dll
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.pdb
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/compareTwoArrays.genruntimeconfig.cache
+/home/faheem/Documents/BRIDGE_LABZ/compareTwoArrays/obj/Debug/net8.0/ref/compareTwoArrays.dll
